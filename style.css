@@ -1,0 +1,40 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(166, 193, 201, 0.781);
+}
+body{
+    padding: 10px;
+}
+.calculator{
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    background: black;
+}
+.output{
+    margin: auto;text-align: center;
+    padding-top: 10%;
+    background: black;
+}
+.screen{
+    height: 50px;
+    width: 80%;
+   background: white;
+}
+.switch{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background:black;
+}
+.button{
+    margin: 10px;
+    height: 50px;
+    width: 60px;
+    font-size: larger;
+    font-weight: bold;
+    color: aliceblue;
+    
+}
